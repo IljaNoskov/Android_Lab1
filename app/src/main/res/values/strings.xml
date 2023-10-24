@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android lab 1 Noskov 21PI1</string>
+    <string name="button1">Change color</string>
+    <string name="PlainText1">Write a color</string>
+    <string name="back_button">Back to color select</string>
+</resources>
